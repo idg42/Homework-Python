@@ -24,4 +24,4 @@ Run PyBank.py file from python command window
 
 **Report Results:**
 
-![](images/results.JPG)
+![](images/results.jpg)

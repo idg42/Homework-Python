@@ -34,4 +34,4 @@ Run PyRamen.py file from python command window
 
 **Report Results:**
 
-![](images/results.JPG)
+![](images/results.jpg)
